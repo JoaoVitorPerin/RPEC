@@ -38,5 +38,5 @@
 <h2>Trabalho Prático 3 - Fila Duplamente Encadeada</h2>
 <p>Este trabalho tem como objetivo construir uma Fila Duplamente Encadeada</p><br>
 <br>
-<img src="https://github.com/akitodr/LogicaMatematica/blob/main/img/img1.png">
+<img src="https://github.com/JoaoVitorPerin/RPEC/blob/main/RPEC/src/img/img4.png">
 <br>
