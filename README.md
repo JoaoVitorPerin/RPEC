@@ -16,11 +16,11 @@
 <br>
 <p>Ao executar o programa, o proprio labirinto checa as posiveis posições em que pode andar: </p>
 <br>
-<img src="https://github.com/akitodr/LogicaMatematica/blob/main/img/img1.png">
+<img src="https://github.com/JoaoVitorPerin/RPEC/blob/main/RPEC/src/img/img1.png">
 <br>
 <p>Ao final do programa é apresentado o caminho percorrido:</p>
 <br>
-<img src="https://github.com/akitodr/LogicaMatematica/blob/main/img/img1.png">
+<img src="https://github.com/JoaoVitorPerin/RPEC/blob/main/RPEC/src/img/img3.png">
 
 <hr>
 
