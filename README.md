@@ -5,7 +5,7 @@
 <ul>
   <li>Trabalho Prático 1 - Labirinto Pilha</li>
   <li>Trabalho Prático 2 - Labirinto Fila</li>
-  <li>Trabalho Prático 2 - Fila Duplamente Encadeada</li>
+  <li>Trabalho Prático 3 - Lista Duplamente Encadeada</li>
 </ul>
 <p>Ambos os trabalhos foram desenvolvidos na linguagem de programação Java.</p>
 
@@ -35,7 +35,7 @@
 
 <hr>
 
-<h2>Trabalho Prático 3 - Fila Duplamente Encadeada</h2>
+<h2>Trabalho Prático 3 - Lista Duplamente Encadeada</h2>
 <p>Este trabalho tem como objetivo construir uma Fila Duplamente Encadeada</p><br>
 <br>
 <img src="https://github.com/JoaoVitorPerin/RPEC/blob/main/RPEC/src/img/img4.png">
