@@ -29,7 +29,7 @@
 <br>
 <p>Ao executar o programa, o usuário deve informar qual movimento deseja fazer: </p>
 <br>
-<img src="[https://github.com/JoaoVitorPerin/RPEC/blob/main/img/img2.png](https://github.com/JoaoVitorPerin/RPEC/blob/main/RPEC/src/img/img2.png)">
+<img src="https://github.com/JoaoVitorPerin/RPEC/blob/main/img/img2.png">
 <br>
 <p>Ao final, é mostrado o caminho que foi percorrido.</p>
 
